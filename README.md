@@ -19,3 +19,4 @@ align="left"
 alt="Azan's Github stats"
 src="https://github-readme-stats.vercel.app/api?username=Azanul&show_icons=true&hide_border=true"
 />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azanul" />
