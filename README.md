@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-plain-colored.svg" alt="html5" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-plain.svg" alt="html5" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
