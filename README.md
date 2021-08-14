@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 <h2>Reach out</h2>
 <p>
-    <a href="www.linkedin.com/in/azanul-haque"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
+    <a href="https://www.linkedin.com/in/azanul-haque"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
     <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="JohnDoe297#5970"/>
     <a href="mailto:azanulhaque@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/></a>
 </p>
