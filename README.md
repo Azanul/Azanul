@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://komarev.com/ghpvc/?username=Azanul" alt="Azanul"/>
 <h2>Just a bunch of icons</h1>
-<h6>to aknowledge you of my skills</h6>
+<h6>to acknowledge you of my skills</h6>
 <h2>
   </h2>
 <p align="left">
