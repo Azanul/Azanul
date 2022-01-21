@@ -44,8 +44,8 @@ Here are some ideas to get you started:
     <a href="mailto:azanulhaque@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/></a>
 </p>
 <p align="center">
-  <img align="center" alt="Azan's Github stats"
+  <img height="207em" align="center" alt="Azan's Github stats"
        src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Azanul&&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&bg_color=0,2E5EFF,7CCAFC&title_color=000000&text_color=000000&icon_color=000000&layout=compact"/>
-  <img align="center" src="https://github-readme-stats-xi-rosy-19.vercel.app/api/top-langs/?username=Azanul&&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&hide=HLSL,GLSL,ShaderLab,Objective-C,Jupyter Notebook &langs_count=8&bg_color=0,7CCAFC,2E5EFF&title_color=000000&text_color=000000&icon_color=000000&layout=compact"
+  <img height="207em" align="center" src="https://github-readme-stats-xi-rosy-19.vercel.app/api/top-langs/?username=Azanul&&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&hide=HLSL,GLSL,ShaderLab,Objective-C,Jupyter Notebook &langs_count=10&bg_color=0,7CCAFC,2E5EFF&title_color=000000&text_color=000000&icon_color=000000&layout=compact"
   />
 </p>
