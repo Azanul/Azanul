@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <img align="center" alt="Azan's Github stats"
-       src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Azanul&show_icons=true&hide_border=true&count_private=true&bg_color=0,2E5EFF,7CCAFC&title_color=000000&text_color=000000&icon_color=000000"/>
-  <img align="center" src="https://github-readme-stats-xi-rosy-19.vercel.app/api/top-langs/?username=Azanul&show_icons=true&hide=HLSL,GLSL,ShaderLab,Objective-C,Jupyter Notebook &hide_border=true&langs_count=8&count_private=true&bg_color=0,7CCAFC,2E5EFF&title_color=000000&text_color=000000&icon_color=000000&layout=compact"
+       src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Azanul&&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&bg_color=0,2E5EFF,7CCAFC&title_color=000000&text_color=000000&icon_color=000000"/>
+  <img align="center" src="https://github-readme-stats-xi-rosy-19.vercel.app/api/top-langs/?username=Azanul&&include_all_commits=true&show_icons=true&hide=HLSL,GLSL,ShaderLab,Objective-C,Jupyter Notebook &hide_border=true&langs_count=8&count_private=true&bg_color=0,7CCAFC,2E5EFF&title_color=000000&text_color=000000&icon_color=000000&layout=compact"
   />
 </p>
