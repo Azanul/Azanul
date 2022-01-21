@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <img height="207em" align="center" alt="Azan's Github stats"
-       src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Azanul&&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&bg_color=0,2E5EFF,7CCAFC&title_color=000000&text_color=000000&icon_color=000000&layout=compact"/>
+       src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Azanul&&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&bg_color=0,2E5EFF,7CCAFC&title_color=000000&text_color=000000&icon_color=000000&layout=compact&line_height=28"/>
   <img height="207em" align="center" src="https://github-readme-stats-xi-rosy-19.vercel.app/api/top-langs/?username=Azanul&&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&hide=HLSL,GLSL,ShaderLab,Objective-C,Jupyter Notebook &langs_count=10&bg_color=0,7CCAFC,2E5EFF&title_color=000000&text_color=000000&icon_color=000000&layout=compact"
   />
 </p>
