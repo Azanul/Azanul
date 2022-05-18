@@ -44,6 +44,9 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="JohnDoe297#5970"/>
     <a href="mailto:azanulhaque@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/></a>
 </p>
+<p>
+<a href="https://buymeacoffee.com/johnDoe297" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
 <p align="center">
   <img height="207em" align="center" alt="Azan's Github stats"
        src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Azanul&&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&bg_color=0,2E5EFF,7CCAFC&title_color=000000&text_color=000000&icon_color=000000&layout=compact&line_height=28"/>
