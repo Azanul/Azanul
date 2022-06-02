@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <h2>
   </h2>
 <p align="left">
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
