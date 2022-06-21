@@ -26,13 +26,14 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" width="40" height="40"/>
   <img src="https://img.icons8.com/color/480/c-sharp-logo-2.png" alt="csharp" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="csharp" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" width="40" height="40"/>
 </p>
 <p align="left">
   <img src="https://github.com/detain/svg-logos/blob/master/svg/django.svg" alt="django" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 </p>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
