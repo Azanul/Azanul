@@ -1,4 +1,4 @@
-# Hi there 👋
+![Azanul Haque Header](https://user-images.githubusercontent.com/42029519/193472850-d0de2511-b60e-4414-976a-855840a2a6cc.svg)
 
 <!--
 **Azanul/Azanul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,3 +58,4 @@ Here are some ideas to get you started:
 
 <!-- [![Leetcode Stats](https://leetcode.card.workers.dev/azanulhaque?theme=nord&font=baloo&extension=null&height=207em)](https://leetcode.com/azanulhaque)
 -->
+![Azanul Haque Footer](https://user-images.githubusercontent.com/42029519/193472827-923d610d-6fd2-42a4-a712-29cb11a191ca.svg)
