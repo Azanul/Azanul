@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://komarev.com/ghpvc/?username=Azanul" alt="Azanul"/>
-<h2>Just a bunch of icons</h1>
-<h6>to acknowledge you of my skills</h6>
-<h2>
-  </h2>
+
+![R2LDivider](https://user-images.githubusercontent.com/42029519/193863609-ff995ff9-53ee-426d-8591-be35005f5b5d.svg)
+
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="60" height="60"/>
@@ -40,6 +39,9 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
 </p>
+
+![L2RDivider](https://user-images.githubusercontent.com/42029519/193864599-564128e0-6dbd-4468-b1a1-2bc343bcdaa1.svg)
+
 <h2>Reach out</h2>
 <p>
     <a href="https://www.linkedin.com/in/azanul-haque"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
