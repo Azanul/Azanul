@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ![R2LDivider](https://user-images.githubusercontent.com/42029519/193863609-ff995ff9-53ee-426d-8591-be35005f5b5d.svg)
 
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=20" alt="Python">
+  <img src="https://img.shields.io/badge/-Go-F3F7FA?logo=go&logoColor=00ADD8&style=for-the-badge&logoWidth=30" alt="Go">
   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" width="40" height="40"/>
   <img src="https://img.icons8.com/color/480/c-sharp-logo-2.png" alt="csharp" width="40" height="40"/>
