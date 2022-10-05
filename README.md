@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 ### What I currently work with
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=20" alt="Python">
-  <img src="https://img.shields.io/badge/-Go-F3F7FA?logo=go&logoColor=00ADD8&style=for-the-badge&logoWidth=30" alt="Go">
+  <img src="https://img.shields.io/badge/-Django-F3F7FA?logo=django&logoColor=092E20&style=for-the-badge&logoWidth=30" alt="Django">
   <img src="https://img.shields.io/badge/-PostgreSQL-F3F7FA?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
   <img src="https://img.shields.io/badge/-Amazon AWS-F3F7FA?logo=amazonaws&logoColor=232F3E&style=for-the-badge&logoWidth=30" alt="Amazon AWS">
+  <img src="https://img.shields.io/badge/-Go-F3F7FA?logo=go&logoColor=00ADD8&style=for-the-badge&logoWidth=30" alt="Go">
   <img src="https://img.shields.io/badge/-Microsoft Azure-F3F7FA?logo=microsoftazure&logoColor=0078D4&style=for-the-badge&logoWidth=30" alt="Microsoft Azure">
 </p>
 
