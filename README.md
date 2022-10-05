@@ -17,33 +17,39 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=Azanul" alt="Azanul"/>
 
 ![R2LDivider](https://user-images.githubusercontent.com/42029519/193863609-ff995ff9-53ee-426d-8591-be35005f5b5d.svg)
+## 🧠 Skills
 
+### What I currently work with
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=20" alt="Python">
   <img src="https://img.shields.io/badge/-Go-F3F7FA?logo=go&logoColor=00ADD8&style=for-the-badge&logoWidth=30" alt="Go">
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/480/c-sharp-logo-2.png" alt="csharp" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-F3F7FA?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
+  <img src="https://img.shields.io/badge/-Amazon AWS-F3F7FA?logo=amazonaws&logoColor=232F3E&style=for-the-badge&logoWidth=30" alt="Amazon AWS">
+  <img src="https://img.shields.io/badge/-Microsoft Azure-F3F7FA?logo=microsoftazure&logoColor=0078D4&style=for-the-badge&logoWidth=30" alt="Microsoft Azure">
 </p>
-<p align="left">
-  <img src="https://github.com/detain/svg-logos/blob/master/svg/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+
+### What I have previously work with
+<p align="center">
+  <img src="https://img.shields.io/badge/-Rust-F3F7FA?logo=rust&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Rust">
+  <img src="https://img.shields.io/badge/-Dart-F3F7FA?logo=dart&logoColor=0175C2&style=for-the-badge&logoWidth=30" alt="Dart">
+  <img src="https://img.shields.io/badge/-C-F3F7FA?logo=c&logoColor=A8B9CC&style=for-the-badge&logoWidth=30" alt="C">
+  <img src="https://img.shields.io/badge/-C#-F3F7FA?logo=csharp&logoColor=239120&style=for-the-badge&logoWidth=30" alt="C Sharp">
+  <img src="https://img.shields.io/badge/-Js-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
+  <img src="https://img.shields.io/badge/-ReactJs-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="Python">
+  <img src="https://img.shields.io/badge/-Flutter-F3F7FA?logo=flutter&logoColor=02569B&style=for-the-badge&logoWidth=30" alt="Go">
+  <img src="https://img.shields.io/badge/-Flask-F3F7FA?logo=flask&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Amazon AWS">
+  <img src="https://img.shields.io/badge/-Unity-F3F7FA?logo=unity&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Microsoft Azure">
 </p>
-<p align="left">
+<p align="center">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
 ![L2RDivider](https://user-images.githubusercontent.com/42029519/193864599-564128e0-6dbd-4468-b1a1-2bc343bcdaa1.svg)
 
 <h2>Reach out</h2>
-<p>
+<p align="center">
     <a href="https://www.linkedin.com/in/azanul-haque"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
     <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="JohnDoe297#5970"/>
     <a href="mailto:azanulhaque@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/></a>
