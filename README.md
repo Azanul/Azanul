@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 ### What I currently work with
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=20" alt="Python">
+  <img src="https://img.shields.io/badge/-Apache Spark-F3F7FA?logo=apachespark&logoColor=E25A1C&style=for-the-badge&logoWidth=30" alt="Spark">
   <img src="https://img.shields.io/badge/-Django-F3F7FA?logo=django&logoColor=092E20&style=for-the-badge&logoWidth=30" alt="Django">
   <img src="https://img.shields.io/badge/-PostgreSQL-F3F7FA?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
+  <img src="https://img.shields.io/badge/-Elastic-F3F7FA?logo=elastic&logoColor=005571&style=for-the-badge&logoWidth=30" alt="Elasticsearch & Kibana">
   <img src="https://img.shields.io/badge/-Amazon AWS-F3F7FA?logo=amazonaws&logoColor=232F3E&style=for-the-badge&logoWidth=30" alt="Amazon AWS">
   <img src="https://img.shields.io/badge/-Go-F3F7FA?logo=go&logoColor=00ADD8&style=for-the-badge&logoWidth=30" alt="Go">
   <img src="https://img.shields.io/badge/-Microsoft Azure-F3F7FA?logo=microsoftazure&logoColor=0078D4&style=for-the-badge&logoWidth=30" alt="Microsoft Azure">
@@ -37,14 +39,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-C-F3F7FA?logo=c&logoColor=A8B9CC&style=for-the-badge&logoWidth=30" alt="C">
   <img src="https://img.shields.io/badge/-C#-F3F7FA?logo=csharp&logoColor=239120&style=for-the-badge&logoWidth=30" alt="C Sharp">
   <img src="https://img.shields.io/badge/-Js-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
-  <img src="https://img.shields.io/badge/-ReactJs-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="Python">
-  <img src="https://img.shields.io/badge/-Flutter-F3F7FA?logo=flutter&logoColor=02569B&style=for-the-badge&logoWidth=30" alt="Go">
+  </br>
+  <img src="https://img.shields.io/badge/-ReactJs-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
+  <img src="https://img.shields.io/badge/-Flutter-F3F7FA?logo=flutter&logoColor=02569B&style=for-the-badge&logoWidth=30" alt="Flutter">
   <img src="https://img.shields.io/badge/-Flask-F3F7FA?logo=flask&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Amazon AWS">
   <img src="https://img.shields.io/badge/-Unity-F3F7FA?logo=unity&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Microsoft Azure">
-</p>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+  </br>
+  <img src="https://img.shields.io/badge/-MySQL-F3F7FA?logo=mysql&logoColor=4479A1&style=for-the-badge&logoWidth=30" alt="MySQL">
+  <img src="https://img.shields.io/badge/-MongoDB-F3F7FA?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-SQLite-F3F7FA?logo=sqlite&logoColor=003B57&style=for-the-badge&logoWidth=30" alt="SQLite">
 </p>
 
 ![L2RDivider](https://user-images.githubusercontent.com/42029519/193864599-564128e0-6dbd-4468-b1a1-2bc343bcdaa1.svg)
