@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### What I currently work with
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=20" alt="Python">
-  <img src="https://img.shields.io/badge/-Apache Spark-F3F7FA?logo=apachespark&logoColor=E25A1C&style=for-the-badge&logoWidth=30" alt="Spark">
+  <img src="https://img.shields.io/badge/-Spark-F3F7FA?logo=apachespark&logoColor=E25A1C&style=for-the-badge&logoWidth=30" alt="Apache Spark">
   <img src="https://img.shields.io/badge/-Django-F3F7FA?logo=django&logoColor=092E20&style=for-the-badge&logoWidth=30" alt="Django">
   <img src="https://img.shields.io/badge/-PostgreSQL-F3F7FA?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
@@ -48,6 +48,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-MySQL-F3F7FA?logo=mysql&logoColor=4479A1&style=for-the-badge&logoWidth=30" alt="MySQL">
   <img src="https://img.shields.io/badge/-MongoDB-F3F7FA?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
   <img src="https://img.shields.io/badge/-SQLite-F3F7FA?logo=sqlite&logoColor=003B57&style=for-the-badge&logoWidth=30" alt="SQLite">
+</p>
+
+### What's on my learning list
+<p align="center">
+  <img src="https://img.shields.io/badge/-Flink-F3F7FA?logo=apacheflink&logoColor=E6526F&style=for-the-badge&logoWidth=20" alt="Apache Flink">
+  <img src="https://img.shields.io/badge/-Kafka-F3F7FA?logo=apachekafka&logoColor=231F20&style=for-the-badge&logoWidth=30" alt="Apache Kafka">
+  <img src="https://img.shields.io/badge/-Solidity-F3F7FA?logo=solidity&logoColor=363636&style=for-the-badge&logoWidth=30" alt="Solidity">
+  <img src="https://img.shields.io/badge/-A lot more...-F3F7FA?logo=none&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="More">
 </p>
 
 ![L2RDivider](https://user-images.githubusercontent.com/42029519/193864599-564128e0-6dbd-4468-b1a1-2bc343bcdaa1.svg)
