@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
   <img src="https://img.shields.io/badge/-Elastic-F3F7FA?logo=elastic&logoColor=005571&style=for-the-badge&logoWidth=30" alt="Elasticsearch & Kibana">
   <img src="https://img.shields.io/badge/-Amazon AWS-F3F7FA?logo=amazonaws&logoColor=232F3E&style=for-the-badge&logoWidth=30" alt="Amazon AWS">
+  <img src="https://img.shields.io/badge/-Traefik-F3F7FA?logo=traefikproxy&logoColor=24A1C1&style=for-the-badge&logoWidth=30" alt="Traefik">
   <img src="https://img.shields.io/badge/-Go-F3F7FA?logo=go&logoColor=00ADD8&style=for-the-badge&logoWidth=30" alt="Go">
   <img src="https://img.shields.io/badge/-Microsoft Azure-F3F7FA?logo=microsoftazure&logoColor=0078D4&style=for-the-badge&logoWidth=30" alt="Microsoft Azure">
 </p>
@@ -42,12 +43,14 @@ Here are some ideas to get you started:
   </br>
   <img src="https://img.shields.io/badge/-ReactJs-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
   <img src="https://img.shields.io/badge/-Flutter-F3F7FA?logo=flutter&logoColor=02569B&style=for-the-badge&logoWidth=30" alt="Flutter">
-  <img src="https://img.shields.io/badge/-Flask-F3F7FA?logo=flask&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Amazon AWS">
-  <img src="https://img.shields.io/badge/-Unity-F3F7FA?logo=unity&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/-Flask-F3F7FA?logo=flask&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Flask">
+  <img src="https://img.shields.io/badge/-Unity-F3F7FA?logo=unity&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Unity">
   </br>
   <img src="https://img.shields.io/badge/-MySQL-F3F7FA?logo=mysql&logoColor=4479A1&style=for-the-badge&logoWidth=30" alt="MySQL">
   <img src="https://img.shields.io/badge/-MongoDB-F3F7FA?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
   <img src="https://img.shields.io/badge/-SQLite-F3F7FA?logo=sqlite&logoColor=003B57&style=for-the-badge&logoWidth=30" alt="SQLite">
+  </br>
+  <img src="https://img.shields.io/badge/-Nginx-F3F7FA?logo=nginx&logoColor=009639&style=for-the-badge&logoWidth=30" alt="Nginx">
 </p>
 
 ### What's on my learning list
