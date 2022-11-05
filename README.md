@@ -58,6 +58,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Flink-F3F7FA?logo=apacheflink&logoColor=E6526F&style=for-the-badge&logoWidth=20" alt="Apache Flink">
   <img src="https://img.shields.io/badge/-Kafka-F3F7FA?logo=apachekafka&logoColor=231F20&style=for-the-badge&logoWidth=30" alt="Apache Kafka">
   <img src="https://img.shields.io/badge/-Solidity-F3F7FA?logo=solidity&logoColor=363636&style=for-the-badge&logoWidth=30" alt="Solidity">
+  <img src="https://img.shields.io/badge/-Redis-F3F7FA?logo=redis&logoColor=DC382D&style=for-the-badge&logoWidth=30" alt="Redis">
   <img src="https://img.shields.io/badge/-A lot more...-F3F7FA?logo=none&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="More">
 </p>
 
