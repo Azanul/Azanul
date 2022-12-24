@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Amazon AWS-F3F7FA?logo=amazonaws&logoColor=232F3E&style=for-the-badge&logoWidth=30" alt="Amazon AWS">
   <img src="https://img.shields.io/badge/-Traefik-F3F7FA?logo=traefikproxy&logoColor=24A1C1&style=for-the-badge&logoWidth=30" alt="Traefik">
   <img src="https://img.shields.io/badge/-Go-F3F7FA?logo=go&logoColor=00ADD8&style=for-the-badge&logoWidth=30" alt="Go">
+  <img src="https://img.shields.io/badge/-Kafka-F3F7FA?logo=apachekafka&logoColor=231F20&style=for-the-badge&logoWidth=30" alt="Apache Kafka">
   <img src="https://img.shields.io/badge/-Microsoft Azure-F3F7FA?logo=microsoftazure&logoColor=0078D4&style=for-the-badge&logoWidth=30" alt="Microsoft Azure">
 </p>
 
@@ -56,7 +57,6 @@ Here are some ideas to get you started:
 ### What's on my learning list
 <p align="center">
   <img src="https://img.shields.io/badge/-Flink-F3F7FA?logo=apacheflink&logoColor=E6526F&style=for-the-badge&logoWidth=20" alt="Apache Flink">
-  <img src="https://img.shields.io/badge/-Kafka-F3F7FA?logo=apachekafka&logoColor=231F20&style=for-the-badge&logoWidth=30" alt="Apache Kafka">
   <img src="https://img.shields.io/badge/-Solidity-F3F7FA?logo=solidity&logoColor=363636&style=for-the-badge&logoWidth=30" alt="Solidity">
   <img src="https://img.shields.io/badge/-Redis-F3F7FA?logo=redis&logoColor=DC382D&style=for-the-badge&logoWidth=30" alt="Redis">
   <img src="https://img.shields.io/badge/-A lot more...-F3F7FA?logo=none&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="More">
