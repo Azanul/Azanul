@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ### What I currently work with
 <p align="center">
+  <img src="https://img.shields.io/badge/-Arch-F3F7FA?logo=archlinux&logoColor=1793D1&style=for-the-badge&logoWidth=20" alt="Arch Linux">
   <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=20" alt="Python">
   <img src="https://img.shields.io/badge/-Spark-F3F7FA?logo=apachespark&logoColor=E25A1C&style=for-the-badge&logoWidth=30" alt="Apache Spark">
   <img src="https://img.shields.io/badge/-Django-F3F7FA?logo=django&logoColor=092E20&style=for-the-badge&logoWidth=30" alt="Django">
