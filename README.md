@@ -23,14 +23,14 @@ Here are some ideas to get you started:
   
 ## Latest Blogs
 <!-- blogs starts -->
-<!-- blogs starts -->
+<!-- blogs ends -->
 
   </td>
   <td valign="top" width="50%">
     
 ## Latest TILs
 <!-- tils starts -->
-<!-- tils starts -->
+<!-- tils ends -->
   
   </td>
 </tr></table>
