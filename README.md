@@ -30,8 +30,11 @@ Here are some ideas to get you started:
     
 ## Latest TILs
 <!-- tils starts -->
+
 [How to skip hooks & checks when committing or pushing](https://github.com/Azanul/til/blob/main/git/no-verify.md) - 2023-02-06
+
 [Pydantic: Data validation using python type annotations](https://github.com/Azanul/til/blob/main/python/pydantic.md) - 2023-02-04
+
 <!-- tils ends -->
   
   </td>
