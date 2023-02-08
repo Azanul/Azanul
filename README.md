@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 
 [How to install enumer](https://github.com/Azanul/til/blob/main/go/enumer.md) - 2023-02-08
 
+[Fake update discord version](https://github.com/Azanul/til/blob/main/arch/fake-discord-version.md) - 2023-02-08
+
 [How to set chaotic AUR for pacman](https://github.com/Azanul/til/blob/main/arch/chaotic-aur-set.md) - 2023-02-07
 
 <!-- tils ends -->
