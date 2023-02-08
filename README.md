@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 [Pydantic: Data validation using python type annotations](https://github.com/Azanul/til/blob/main/python/pydantic.md) - 2023-02-04
 
+[Speed up python by 30%](https://github.com/Azanul/til/blob/main/python/speed-up.md) - 2023-02-08
+
 [How to install enumer](https://github.com/Azanul/til/blob/main/go/enumer.md) - 2023-02-08
 
 [How to set chaotic AUR for pacman](https://github.com/Azanul/til/blob/main/arch/chaotic-aur-set.md) - 2023-02-07
