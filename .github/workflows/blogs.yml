@@ -16,6 +16,8 @@ jobs:
       with:
         workflow: build.yml
         name: blog_puller_bin
-
+        
+    - run: ls
+    
     - name: Run
       run: ./blog_puller_bin
