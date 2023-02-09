@@ -11,13 +11,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
     - name: Download binary
       uses: dawidd6/action-download-artifact@v2
       with:
         workflow: build.yml
         name: blog_puller_bin
-        
-    - run: ls
 
     - name: Run
       run: ./blog_puller
+
+    - name: Commit and push if README changed
+      run: |-
+        cd main
+        git diff
+        git config --global user.email "actions@users.noreply.github.com"
+        git config --global user.name "README-bot"
+        git diff --quiet || (git add README.md && git commit -m "Updated README")
+        git push
