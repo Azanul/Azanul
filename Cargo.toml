@@ -1,0 +1,3 @@
+[dependencies]
+reqwest = "0.10"
+rss = "0.13"
