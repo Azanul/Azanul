@@ -20,6 +20,9 @@ jobs:
         workflow: build.yml
         name: blog_puller_bin
 
+    - name: Add permissions
+      run: git update-index --chmod=+x ./blog_puller
+
     - name: Run
       run: ./blog_puller
 
