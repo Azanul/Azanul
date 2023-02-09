@@ -6,23 +6,15 @@ on:
   
   workflow_dispatch:
 
-
-env:
-  CARGO_TERM_COLOR: always
-
 jobs:
   update_readme:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Run
-      run: cargo build --bin blog_puller --release --verbose
-
-    - uses: actions/upload-artifact@v3
+    - name: Download binary
+      uses: actions/download-artifact@v3
       with:
         name: blog_puller_bin
-        path: target/release/blog_puller
 
+    - name: Run
+      run: ./blog_puller_bin
