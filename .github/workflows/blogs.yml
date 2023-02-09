@@ -13,9 +13,9 @@ jobs:
     steps:
     - name: Download binary
       uses: dawidd6/action-download-artifact@v2
-        with:
-          workflow: workflow_name.yml
-          name: blog_puller_bin
+      with:
+        workflow: workflow_name.yml
+        name: blog_puller_bin
 
     - name: Run
       run: ./blog_puller_bin
