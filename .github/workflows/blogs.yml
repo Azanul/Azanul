@@ -24,5 +24,5 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
         name: blog_puller_bin
-        path: /target/release/blog_puller
+        path: target/release/blog_puller
 
