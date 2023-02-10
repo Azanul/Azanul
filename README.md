@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 
 [How to remove commits from git history](https://github.com/Azanul/til/blob/main/git/delete-history.md) - 2023-02-07
 
+[How to share data between jobs and workflows](https://github.com/Azanul/til/blob/main/git/artifacts.md) - 2023-02-10
+
 [How to skip hooks & checks when committing or pushing](https://github.com/Azanul/til/blob/main/git/no-verify.md) - 2023-02-06
 
 [How to commit if changes done](https://github.com/Azanul/til/blob/main/git/git-diff.md) - 2023-02-10
