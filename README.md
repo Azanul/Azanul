@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 
 [The case of missing message ID](https://blog.azanulhaque.tech/the-case-of-missing-message-id) - 2023-01-30
 
+[Balancing Career, Contribution and Self-Improvement: My 2022 Journey](https://blog.azanulhaque.tech/balancing-career-contribution-and-self-improvement-my-2022-journey) - 2023-01-29
+
+[Efficient DSA Preparation using LCNotion Automation](https://blog.azanulhaque.tech/efficient-dsa-preparation-using-lcnotion-automation) - 2023-01-28
+
+[DSA preparation using Leetcode and Notion](https://blog.azanulhaque.tech/dsa-preparation-using-leetcode-and-notion) - 2023-01-26
+
 
 <!-- blogs ends -->
 
