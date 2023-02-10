@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 
 [How to skip hooks & checks when committing or pushing](https://github.com/Azanul/til/blob/main/git/no-verify.md) - 2023-02-06
 
+[How to commit if changes done](https://github.com/Azanul/til/blob/main/git/git-diff.md) - 2023-02-10
+
 [Pydantic: Data validation using python type annotations](https://github.com/Azanul/til/blob/main/python/pydantic.md) - 2023-02-04
 
 [Speed up python by 30%](https://github.com/Azanul/til/blob/main/python/speed-up.md) - 2023-02-08
