@@ -24,7 +24,7 @@ jobs:
       run: chmod 777 blog_puller
 
     - name: Run
-      run: ./blog_puller --url https://blog.azanulhaque.tech/rss.xml --number_of_posts 8
+      run: ./blog_puller --url https://blog.azanulhaque.tech/rss.xml --number-of-posts 8
 
     - name: Commit and push if README changed
       run: |-
