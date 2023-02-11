@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 
 [How to skip hooks & checks when committing or pushing](https://github.com/Azanul/til/blob/main/git/no-verify.md) - 2023-02-06
 
+[How to fix insufficient permission error](https://github.com/Azanul/til/blob/main/git/permission-issue-db.md) - 2023-02-11
+
 [How to install enumer](https://github.com/Azanul/til/blob/main/go/enumer.md) - 2023-02-08
 
 [Pydantic: Data validation using python type annotations](https://github.com/Azanul/til/blob/main/python/pydantic.md) - 2023-02-04
