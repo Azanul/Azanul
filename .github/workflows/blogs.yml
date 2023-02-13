@@ -12,6 +12,6 @@ jobs:
 
     steps:
     - name: Blog_It
-      uses: Azanul/BlogIt@test11
+      uses: Azanul/BlogIt@test12
       with:
         url: https://blog.azanulhaque.tech/rss.xml
