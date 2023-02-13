@@ -12,6 +12,4 @@ jobs:
 
     steps:
     - name: Blog_It
-      uses: Azanul/BlogIt@test2
-
-      
+      uses: Azanul/BlogIt@test3
