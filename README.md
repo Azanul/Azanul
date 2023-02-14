@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <table><tr><td valign="top" width="50%">
   
-## Latest Blogs
+## 📘 Latest Blogs
 <!-- blogs starts -->
 [Automate README updates with GitHub actions](https://blog.azanulhaque.tech/automate-readme-updates-with-github-actions) - 2023-02-06
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   </td>
   <td valign="top" width="50%">
     
-## Latest TILs
+## 📑 Latest TILs
 <!-- tils starts -->
 
 [How to set chaotic AUR for pacman](https://github.com/Azanul/til/blob/main/arch/chaotic-aur-set.md) - 2023-02-07
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   
 ![L2RDivider](https://user-images.githubusercontent.com/42029519/193864599-564128e0-6dbd-4468-b1a1-2bc343bcdaa1.svg)
 
-## Reach out
+## 🔮 Reach out
 <p align="center">
   <a href="https://www.linkedin.com/in/azanul-haque"><img src="https://img.shields.io/badge/-Linkedin-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="Linkedin"></a>
   <img src="https://img.shields.io/badge/-Discord-F3F7FA?logo=discord&logoColor=5865F2&style=for-the-badge&logoWidth=30" alt="JohnDoe297#5970">
