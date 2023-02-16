@@ -12,6 +12,7 @@ jobs:
 
     steps:
     - name: Blog_It
-      uses: Azanul/BlogIt@test13
+      uses: Azanul/BlogIt@v1
       with:
         url: https://blog.azanulhaque.tech/rss.xml
+        max_number_of_posts: 8
