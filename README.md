@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 
 [Dockerizing Your Development: A Guide to Navigating the Dark and Mysterious World of Containerization](https://blog.azanulhaque.tech/dockerizing-your-development-a-guide-to-navigating-the-dark-and-mysterious-world-of-containerization) - 2023-01-31
 
+[The case of missing message ID](https://blog.azanulhaque.tech/the-case-of-missing-message-id) - 2023-01-30
+
+[Balancing Career, Contribution and Self-Improvement: My 2022 Journey](https://blog.azanulhaque.tech/balancing-career-contribution-and-self-improvement-my-2022-journey) - 2023-01-29
+
+[Efficient DSA Preparation using LCNotion Automation](https://blog.azanulhaque.tech/efficient-dsa-preparation-using-lcnotion-automation) - 2023-01-28
+
 
 <!-- blogs ends -->
 
