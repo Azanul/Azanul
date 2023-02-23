@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 
 [Fake update discord version](https://github.com/Azanul/til/blob/main/arch/fake-discord-version.md) - 2023-02-08
 
+[Important extension development commands](https://github.com/Azanul/til/blob/main/docker/extension-dev.md) - 2023-02-23
+
 [How to share data between jobs and workflows](https://github.com/Azanul/til/blob/main/git/artifacts.md) - 2023-02-10
 
 [How to remove commits from git history](https://github.com/Azanul/til/blob/main/git/delete-history.md) - 2023-02-07
