@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   
 ## 📘 Latest Blogs
 <!-- blogs starts -->
+[Ghost in the Machine](https://blog.azanulhaque.tech/ghost-in-the-machine) - 2023-03-12
+
 [Auto-updating GitHub profile with GitHub actions](https://blog.azanulhaque.tech/auto-updating-github-profile-with-github-actions) - 2023-02-14
 
 [Automate README updates with GitHub actions](https://blog.azanulhaque.tech/automate-readme-updates-with-github-actions) - 2023-02-06
@@ -36,8 +38,6 @@ Here are some ideas to get you started:
 [The case of missing message ID](https://blog.azanulhaque.tech/the-case-of-missing-message-id) - 2023-01-30
 
 [Balancing Career, Contribution and Self-Improvement: My 2022 Journey](https://blog.azanulhaque.tech/balancing-career-contribution-and-self-improvement-my-2022-journey) - 2023-01-29
-
-[Efficient DSA Preparation using LCNotion Automation](https://blog.azanulhaque.tech/efficient-dsa-preparation-using-lcnotion-automation) - 2023-01-28
 
 
 <!-- blogs ends -->
