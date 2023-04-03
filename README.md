@@ -70,8 +70,6 @@ Here are some ideas to get you started:
 
 [How to set namespace](https://github.com/Azanul/til/blob/main/kubernetes/set-namespace.md) - 2023-02-22
 
-[How to download a file using terminal](https://github.com/Azanul/til/blob/main/linux/download-with-terminal.md) - 2023-02-25
-
 [Pydantic: Data validation using python type annotations](https://github.com/Azanul/til/blob/main/python/pydantic.md) - 2023-02-04
 
 [Speed up python by 30%](https://github.com/Azanul/til/blob/main/python/speed-up.md) - 2023-02-08
