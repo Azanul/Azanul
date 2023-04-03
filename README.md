@@ -64,6 +64,8 @@ Here are some ideas to get you started:
 
 [How to fix insufficient permission error](https://github.com/Azanul/til/blob/main/git/permission-issue-db.md) - 2023-02-11
 
+[How to shallow clone a git repo](https://github.com/Azanul/til/blob/main/git/shallow-clone.md) - 2023-04-03
+
 [How to install enumer](https://github.com/Azanul/til/blob/main/go/enumer.md) - 2023-02-08
 
 [How to set namespace](https://github.com/Azanul/til/blob/main/kubernetes/set-namespace.md) - 2023-02-22
