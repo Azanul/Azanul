@@ -76,6 +76,8 @@ Here are some ideas to get you started:
 
 [How to download a file using terminal](https://github.com/Azanul/til/blob/main/unix/download-with-terminal.md) - 2023-04-03
 
+[How to forward incoming requests to a container port to host port](https://github.com/Azanul/til/blob/main/unix/reverse-port-forward.md) - 2023-04-03
+
 <!-- tils ends -->
   
   </td>
