@@ -74,6 +74,8 @@ Here are some ideas to get you started:
 
 [Speed up python by 30%](https://github.com/Azanul/til/blob/main/python/speed-up.md) - 2023-02-08
 
+[How to download a file using terminal](https://github.com/Azanul/til/blob/main/unix/download-with-terminal.md) - 2023-04-03
+
 <!-- tils ends -->
   
   </td>
