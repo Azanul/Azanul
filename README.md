@@ -90,6 +90,7 @@ Here are some ideas to get you started:
 ## 🔮 Reach out
 <p align="center">
   <a href="https://www.linkedin.com/in/azanul-haque"><img src="https://img.shields.io/badge/-Linkedin-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="Linkedin"></a>
+  <a href="https://twitter.com/AzanulZ"><img src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
   <img src="https://img.shields.io/badge/-Discord-F3F7FA?logo=discord&logoColor=5865F2&style=for-the-badge&logoWidth=30" alt="JohnDoe297#5970">
   <a href="mailto:azanulhaque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F3F7FA?logo=gmail&logoColor=EA4335&style=for-the-badge&logoWidth=30" alt="azanulhaque@gmail.com"></a>
 </p>
