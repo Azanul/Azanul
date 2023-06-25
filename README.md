@@ -52,11 +52,15 @@ Here are some ideas to get you started:
 
 [Fake update discord version](https://github.com/Azanul/til/blob/main/arch/fake-discord-version.md) - 2023-02-08
 
+[How to share data between jobs and workflows](https://github.com/Azanul/til/blob/main/git/artifacts.md) - 2023-02-10
+
 [How to remove commits from git history](https://github.com/Azanul/til/blob/main/git/delete-history.md) - 2023-02-07
 
 [How to commit if changes done](https://github.com/Azanul/til/blob/main/git/git-diff.md) - 2023-02-10
 
 [How to skip hooks & checks when committing or pushing](https://github.com/Azanul/til/blob/main/git/no-verify.md) - 2023-02-06
+
+[How to fix insufficient permission error](https://github.com/Azanul/til/blob/main/git/permission-issue-db.md) - 2023-02-11
 
 [How to install enumer](https://github.com/Azanul/til/blob/main/go/enumer.md) - 2023-02-08
 
