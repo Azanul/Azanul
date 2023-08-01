@@ -23,21 +23,21 @@ Here are some ideas to get you started:
   
 ## 📘 Latest Blogs
 <!-- blogs starts -->
-[Ghost in the Machine](https://blog.azanulhaque.tech/ghost-in-the-machine) - 2023-03-12
+[Ghost in the Machine](https://johndoe297.hashnode.dev/ghost-in-the-machine) - 2023-03-12
 
-[Auto-updating GitHub profile with GitHub actions](https://blog.azanulhaque.tech/auto-updating-github-profile-with-github-actions) - 2023-02-14
+[Auto-updating GitHub profile with GitHub actions](https://johndoe297.hashnode.dev/auto-updating-github-profile-with-github-actions) - 2023-02-14
 
-[Automate README updates with GitHub actions](https://blog.azanulhaque.tech/automate-readme-updates-with-github-actions) - 2023-02-06
+[Automate README updates with GitHub actions](https://johndoe297.hashnode.dev/automate-readme-updates-with-github-actions) - 2023-02-06
 
-[Django ORM's Hidden Magic: Advanced Uses and Techniques, Part-2](https://blog.azanulhaque.tech/django-orms-hidden-magic-advanced-uses-and-techniques-part-2) - 2023-02-02
+[Django ORM's Hidden Magic: Advanced Uses and Techniques, Part-2](https://johndoe297.hashnode.dev/django-orms-hidden-magic-advanced-uses-and-techniques-part-2) - 2023-02-02
 
-[Django ORM's Hidden Magic: Advanced Uses and Techniques, Part-1](https://blog.azanulhaque.tech/django-orms-hidden-magic-advanced-uses-and-techniques-part-1) - 2023-02-01
+[Django ORM's Hidden Magic: Advanced Uses and Techniques, Part-1](https://johndoe297.hashnode.dev/django-orms-hidden-magic-advanced-uses-and-techniques-part-1) - 2023-02-01
 
-[Dockerizing Your Development: A Guide to Navigating the Dark and Mysterious World of Containerization](https://blog.azanulhaque.tech/dockerizing-your-development-a-guide-to-navigating-the-dark-and-mysterious-world-of-containerization) - 2023-01-31
+[Dockerizing Your Development: A Guide to Navigating the Dark and Mysterious World of Containerization](https://johndoe297.hashnode.dev/dockerizing-your-development-a-guide-to-navigating-the-dark-and-mysterious-world-of-containerization) - 2023-01-31
 
-[The case of missing message ID](https://blog.azanulhaque.tech/the-case-of-missing-message-id) - 2023-01-30
+[The case of missing message ID](https://johndoe297.hashnode.dev/the-case-of-missing-message-id) - 2023-01-30
 
-[Balancing Career, Contribution and Self-Improvement: My 2022 Journey](https://blog.azanulhaque.tech/balancing-career-contribution-and-self-improvement-my-2022-journey) - 2023-01-29
+[Balancing Career, Contribution and Self-Improvement: My 2022 Journey](https://johndoe297.hashnode.dev/balancing-career-contribution-and-self-improvement-my-2022-journey) - 2023-01-29
 
 
 <!-- blogs ends -->
