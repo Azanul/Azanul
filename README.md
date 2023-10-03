@@ -1,5 +1,5 @@
 ![Azanul Haque Header](https://user-images.githubusercontent.com/42029519/193472850-d0de2511-b60e-4414-976a-855840a2a6cc.svg)
-[![An image of @azan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azan)](https://holopin.io/@azan)
+[![An image of @azanul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azanul)](https://holopin.io/@azanul)
 <!--
 **Azanul/Azanul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
