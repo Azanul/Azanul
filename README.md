@@ -87,8 +87,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img height="300em" align="center" alt="Azanul's GitHub | Languages Over Time" src="https://stats.quine.sh/Azanul/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Azanul" />
-<img height="300em" align="center" alt="Azanul's GitHub | Topics Over Time" src="https://stats.quine.sh/Azanul/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Azanul" />
+<img height="280em" align="center" alt="Azanul's GitHub | Languages Over Time" src="https://stats.quine.sh/Azanul/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Azanul" />
+<img height="280em" align="center" alt="Azanul's GitHub | Topics Over Time" src="https://stats.quine.sh/Azanul/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Azanul" />
 </p>
 
 <!-- [![Leetcode Stats](https://leetcode.card.workers.dev/azanulhaque?theme=nord&font=baloo&extension=null&height=207em)](https://leetcode.com/azanulhaque)
