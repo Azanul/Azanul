@@ -85,11 +85,10 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://buymeacoffee.com/johnDoe297" target="_blank"><img src="https://img.shields.io/badge/-Buy Me A Coffee-F3F7FA?logo=buymeacoffee&logoColor=FFDD00&style=for-the-badge&logoWidth=30" alt="Buy Me A Coffee"></a>
 </p>
+
 <p align="center">
-  <img height="207em" align="center" alt="Azan's Github stats"
-       src="https://github-readme-stats-xi-rosy-19.vercel.app/api/?username=Azanul&&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&layout=compact&line_height=28"/>
-  <img height="207em" align="center" src="https://github-readme-stats-xi-rosy-19.vercel.app/api/top-langs/?username=Azanul&&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&hide=HLSL,GLSL,ShaderLab,Objective-C,C%23,Jupyter%20Notebook&langs_count=10&bg_color=255CFF&title_color=ffffff&text_color=ffffff&icon_color=ffffff&layout=compact"
-  />
+<img height="320em" align="center" alt="Azanul's GitHub | Languages Over Time" src="https://stats.quine.sh/Azanul/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Azanul" />
+<img height="320em" align="center" alt="Azanul's GitHub | Topics Over Time" src="https://stats.quine.sh/Azanul/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Azanul" />
 </p>
 
 <!-- [![Leetcode Stats](https://leetcode.card.workers.dev/azanulhaque?theme=nord&font=baloo&extension=null&height=207em)](https://leetcode.com/azanulhaque)
