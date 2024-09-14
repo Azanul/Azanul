@@ -14,5 +14,5 @@ jobs:
     - name: Blog_It
       uses: Azanul/BlogIt@v1
       with:
-        url: https://blog.azanulhaque.tech/rss.xml
+        url: https://blog.azanulhaque.dev/rss.xml
         max_number_of_posts: 8
