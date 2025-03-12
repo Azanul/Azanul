@@ -86,11 +86,4 @@ Here are some ideas to get you started:
 <a href="https://buymeacoffee.com/johnDoe297" target="_blank"><img src="https://img.shields.io/badge/-Buy Me A Coffee-F3F7FA?logo=buymeacoffee&logoColor=FFDD00&style=for-the-badge&logoWidth=30" alt="Buy Me A Coffee"></a>
 </p>
 
-<p align="center">
-<img height="270em" align="center" alt="Azanul's GitHub | Languages Over Time" src="https://stats.quine.sh/Azanul/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Azanul" />
-<img height="270em" align="center" alt="Azanul's GitHub | Topics Over Time" src="https://stats.quine.sh/Azanul/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Azanul" />
-</p>
-
-<!-- [![Leetcode Stats](https://leetcode.card.workers.dev/azanulhaque?theme=nord&font=baloo&extension=null&height=207em)](https://leetcode.com/azanulhaque)
--->
 ![Azanul Haque Footer](https://user-images.githubusercontent.com/42029519/193472827-923d610d-6fd2-42a4-a712-29cb11a191ca.svg)
